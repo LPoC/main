@@ -2,13 +2,17 @@
 The primary repository for LPoC.
 
 ###Introduction
-Using established tools from the open-source software community can enhance the political process. Long known for effective collaboration and consensus decision making, open-source is transparent and accountable by default. The Libertarian Party of Canada embraces technology as a medium for liberty and prosperity. Below is a brief on how to get involved.
+Using established tools from the open-source software community can enhance the political process by offering greater transparency and accountability and by providing superior tools for effective collaboration and consensus decision making. The Libertarian Party of Canada embraces such technology as a medium for liberty and prosperity. Below is a brief on how to get involved.
 
 ####GitHub
 
-[GitHub](https://github.com) is the most popular open-source project hosting service. It is essentially a repository for files. You are currently in the main LPoC repository. Even the [White House](https://github.com/whitehouse) has several repositories. Public repositories are viewable by anyone while private ones have limited access. GitHub implements tracking of all changes to the contents of a repository. Recommendations and updates can easily be made, commented upon and debated, then 'merged' into the previous version.
+[GitHub](https://github.com) is the world's most popular open-source project hosting service. It essentially provides repositories for collaboratively edited files. It is similar to Google Docs, but more "task" oriented and with better channels for proposing and communicating about changes. Many of the world's most critical software projects are managed on github (eg. linux, most programming languages, openssl, etc.)
 
-To get started, create a GitHub account and request access from an administrator.
+A project on github is a repository of files. Even the [White House](https://github.com/whitehouse) has several repositories. Public repositories are viewable by anyone while private ones have limited access. GitHub tracks alls proposed, accepted, and rejected changes made to a repository, and provides a friendly user-interface for reviewing and commenting on them. Recommendations and updates can be easily made, commented upon, debated, 'merged' into the main version, and referenced in future changes. 
+
+To get started, follow a tutorial: https://guides.github.com/activities/hello-world 
+
+Or simply create a Github account and request access to join this repository from an administrator. Note that you can create issues and propose changes *without* even being granted access! All you need is a Github account!
 
 ####Slack
 
